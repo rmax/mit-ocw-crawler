@@ -1,0 +1,6 @@
+syntax: glob
+dropin.cache
+cache
+*.pyc
+*.orig
+
